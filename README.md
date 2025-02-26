@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
-    <img src="https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%20Hello%20world%EF%BC%81&l0=f8f1e4&l1=8b5a2b&l2=b55239&l3=c3a95a&l4=3b5d50&bg=f8f1e4&comment=Generated%20by%20typograssy">
+    <img src="https://typograssy.deno.dev/api?text=%E3%82%B2%E3%83%BC%E3%83%A0%E9%A2%A8%EF%BC%81&l0=000000&l1=00ff00&l2=99ff33&l3=007700&l4=333333&bg=000000&comment=Game+Start!">
+
 
   </a>
 </p>
