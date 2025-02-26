@@ -1,6 +1,7 @@
 # ようこそ!　👋
 
-[![typograssy](https://typograssy.deno.dev/api?text=こんにちは！%20Hello%20World&bg=000000&frame=ffffff)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=こんにちは！%20Hello%20World&comment=maple0603)](https://github.com/kawarimidoll/typograssy)
+
 
 
 
