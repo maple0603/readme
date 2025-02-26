@@ -1,6 +1,4 @@
-<h1 align="center">
-  🚀 Welcome to <span style="color:#00ffcc;">maple0603's</span> Universe! 🌌
-</h1>
+#ようこそ! 👋
 
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
