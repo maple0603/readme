@@ -8,6 +8,13 @@
 
 ---
 
+### 🎭 **Dynamic SVGs**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&height=40&lines=Welcome+to+My+Profile!;I+love+coding!;Let's+build+something+awesome!" alt="Typing SVG">
+</p>
+
+---
+
 ## 🔥 **Stats & Achievements**
 
 ### 🏆 **Profile Summary**
@@ -25,12 +32,6 @@
 
 ---
 
-### 🎭 **Dynamic SVGs**
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&height=40&lines=Welcome+to+My+Profile!;I+love+coding!;Let's+build+something+awesome!" alt="Typing SVG">
-</p>
-
----
 
 ## 🌐 **Connect with Me**
 <p align="center">
