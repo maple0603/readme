@@ -1,9 +1,9 @@
 # ようこそ!　👋
 
-[![typograssy](https://typograssy.deno.dev/api?text=こんにちは！%20Hello%20World&comment=maple0603)](https://github.com/kawarimidoll/typograssy)
+[[![typograssy](https://typograssy.deno.dev/api?text=こんにちは！%20Hello%20World&comment=maple0603)](https://github.com/kawarimidoll/typograssy)
 
 ](https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E3%80%80Hello%20world%EF%BC%81%20%20&l0=ffffff&bg=000000&comment=Generated%20by%20typograssy)
-
+](https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81%E3%80%80Hello%20world%EF%BC%81%20%20&l0=ffffff&bg=000000&comment=Generated%20by%20typograssy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maple0603&theme=vue)
 
