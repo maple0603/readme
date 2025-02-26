@@ -1,4 +1,8 @@
-# ようこそ~　👋
+# ようこそ!　👋
+
+<p align="center">
+<a href="https://github.com/kawarimidoll/typograssy"><img alt="header" src="assets/header.svg"></a>
+</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maple0603&theme=vue)
 
