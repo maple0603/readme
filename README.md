@@ -1,9 +1,7 @@
 # ようこそ!　👋
 
-[![typograssy](https://typograssy.deno.dev/api?text=こんにちは！%20Hello%20World)](https://github.com/kawarimidoll/typograssy)
 [![typograssy](https://typograssy.deno.dev/api?text=こんにちは！%20Hello%20World&bg=000000&frame=ffffff)](https://github.com/kawarimidoll/typograssy)
-[![typograssy](https://typograssy.deno.dev/api?text=こんにちは！%20Hello%20World&l1=ff0000&l2=00ff00&l3=0000ff&l4=ff00ff)](https://github.com/kawarimidoll/typograssy)
-[![typograssy](https://typograssy.deno.dev/api?text=こんにちは！%20Hello%20World&speed=100)](https://github.com/kawarimidoll/typograssy)
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maple0603&theme=vue)
