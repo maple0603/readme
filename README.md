@@ -8,9 +8,9 @@
 
 ---
 
-### 🎭 **My profile**
+### 🇯🇵 **Profile**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&height=40&lines=Welcome+to+My+Profile!;I+love+coding!;Let's+build+something+awesome!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&height=40&lines=Welcome+to+My+Profile!;Okayama+University+of Science;Let's+build+something+awesome!" alt="Typing SVG">
 </p>
 
 ---
