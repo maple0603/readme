@@ -1,4 +1,4 @@
-#ようこそ! 👋
+# ようこそ! 👋
 
 <p align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
