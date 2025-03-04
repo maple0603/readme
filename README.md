@@ -46,10 +46,3 @@
 </p>
 
 ---
-
-### 🎨 **Styled with love ❤️ & powered by**
-<p align="center">
-  <a href="https://github.com/kawarimidoll/typograssy">
-    <img src="https://img.shields.io/badge/Typograssy-%23FF5733.svg?style=for-the-badge&logo=github&logoColor=white" alt="Typograssy" />
-  </a>
-</p>
