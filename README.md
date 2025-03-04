@@ -46,5 +46,5 @@
 
 ---
 
-## 🌱 **Skills**
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,c,cs,cpp)](https://skillicons.dev)
+## 🌱 **Current Stack**
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,c,cs,cpp,github,)](https://skillicons.dev)
