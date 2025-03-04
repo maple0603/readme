@@ -31,11 +31,10 @@
 
 ---
 
-
 ## 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://twitter.com/maple0603">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://instagram.com/maple0603">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:example@example.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" />
